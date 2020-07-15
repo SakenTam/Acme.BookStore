@@ -1,4 +1,5 @@
 ﻿using Acme.BookStore.Books;
+using Acme.BookStore.Books.Dto;
 using Acme.BookStore.Permissions;
 using AutoMapper;
 
